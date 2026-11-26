@@ -1,6 +1,6 @@
 # PIC18 Pipeline Lab
 
-### 👉 [Open the live lab](https://mohammed2345353.github.io/pic18-pipeline-simulator/)
+### 👉 [Open the live lab](https://mohammed-saray.github.io/pic18-pipeline-simulator/)
 
 ![HTML](https://img.shields.io/badge/built%20with-HTML%20%2B%20SVG%20%2B%20JS-orange)
 ![Offline](https://img.shields.io/badge/runs-offline-brightgreen)
